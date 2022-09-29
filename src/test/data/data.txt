@@ -1,0 +1,14 @@
+    {
+        "discord": "MaxDabChick#1989",
+        "name": "Max Dabchick",
+        "email": "dabchick1989@gmail.com",
+        "role": "Founder/Lead Developer",
+        "imageUrl": "https://png.pngtree.com/png-clipart/20220909/original/pngtree-cute-shit-clipart-wearing-sunglasses-with-cool-expression-png-image_8507989.png"
+    }
+    {
+        "discord": "Schumpeter#3941",
+        "name": "Schumpeter",
+        "email": "asmdse12-asl@gmail.com",
+        "role": "Front-Ender",
+        "imageUrl": "https://png.pngtree.com/png-clipart/20220719/original/pngtree-tiger-man-with-a-cigar-dressed-up-in-retro-style-png-image_8384261.png"
+    }
